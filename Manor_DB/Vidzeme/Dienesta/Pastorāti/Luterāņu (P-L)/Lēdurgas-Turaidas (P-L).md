@@ -21,7 +21,7 @@ krogi:
 dzirnavas:
 tags:
   - veids/pastorāts
-  - veids/luterāņu
+  - veids/pastorāts/luterāņu
 koordinātas:
 piederība_iestādēm:
 date_created: 25-03-2026 08:55

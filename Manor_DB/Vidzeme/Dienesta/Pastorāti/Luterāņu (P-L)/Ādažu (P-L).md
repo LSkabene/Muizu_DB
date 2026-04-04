@@ -19,10 +19,10 @@ krogi:
 dzirnavas:
 tags:
   - veids/pastorāts
-  - veids/luterāņu
+  - veids/pastorāts/luterāņu
 koordinātas:
 piederība_iestādēm:
 date_created: 02-04-2026 06:39
-date_modified: 02-04-2026 08:10
+date_modified: 04-04-2026 02:34
 ---
 

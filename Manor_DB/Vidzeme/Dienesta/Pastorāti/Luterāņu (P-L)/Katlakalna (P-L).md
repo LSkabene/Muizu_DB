@@ -19,7 +19,7 @@ krogi:
 dzirnavas:
 tags:
   - veids/pastorāts
-  - veids/luterāņu
+  - veids/pastorāts/luterāņu
   - teritorija/rīgas-patrimoniālais
 koordinātas:
 piederība_iestādēm:

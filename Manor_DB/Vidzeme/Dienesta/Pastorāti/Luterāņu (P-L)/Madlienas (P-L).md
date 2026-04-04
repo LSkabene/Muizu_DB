@@ -18,7 +18,7 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-  - veids/luterāņu
+  - veids/pastorāts/luterāņu
   - veids/pastorāts
 koordinātas:
 piederība_iestādēm:
