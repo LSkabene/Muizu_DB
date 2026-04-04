@@ -1,0 +1,121 @@
+---
+date_created: 21-03-2026 12:33pm
+date_modified: 21-03-2026 08:18pm
+---
+# Vidzeme
+- [ ] Rīgas apriņķis
+	- [ ] Aizkraukles draudzes novads
+	- [ ] Akmeņsalas
+	- [ ] Allažu
+	- [ ] Ādažu-Carnikavas
+	- [ ] Daugavgrīvas
+	- [ ] Doles
+	- [ ] Ikšķiles-Salaspils
+	- [ ] Jaunpils (Zaubes)
+	- [ ] Kokneses
+	- [ ] Lēdurgas-Turaidas
+	- [ ] Lielvārdes-Lieljumpravas
+	- [ ] Madlienas
+	- [ ] Mālpils
+	- [ ] Nītaures
+	- [ ] Ropažu
+	- [ ] Rīgas pilsēta
+	- [ ] Siguldas
+	- [ ] Skultes
+	- [ ] Slokas
+	- [ ] Suntažu
+- [ ] Cēsu apriņķis
+	- [ ] Cēsu pilsēta
+	- [ ] Āraišu
+	- [ ] Bērzaunes
+	- [ ] Cesvaines
+	- [ ] Cēsu
+	- [ ] Dzērbenes-Drustu
+	- [ ] Ērgļu-Ogresmuižas
+	- [ ] Jaunpiebalgas
+	- [ ] Kalsnavas-Vietalvas
+	- [ ] Lazdonas
+	- [ ] Liepmuižas-Vestienas
+	- [ ] Liezēres
+	- [ ] Lubānas
+	- [ ] Ļaudonas
+	- [ ] Raunas
+	- [ ] Skujenes
+	- [ ] Vecpiebalgas
+- [ ] Valmieras apriņķis
+	- [ ] Alojas
+	- [ ] Burtnieku
+	- [ ] Dikļu
+	- [ ] Limbažu
+	- [ ] Limbažu pilsēta
+	- [ ] Liepupes
+	- [ ] Matīšu
+	- [ ] Mazsalacas
+	- [ ] Rubenes
+	- [ ] Rūjienas
+	- [ ] Salacgrīvas
+	- [ ] Straupes
+	- [ ] Umurgas
+	- [ ] Valmieras
+	- [ ] Valmieras pilsēta
+- [ ] Valkas apriņķis
+	- [ ] Alūksnes
+	- [ ] Apekalna
+	- [ ] Ērģemes
+	- [ ] Ēveles
+	- [ ] Gaujienas
+	- [ ] Gulbenes
+	- [ ] Lugažu
+	- [ ] Palsmanes-Aumeisteru
+	- [ ] Smiltenes
+	- [ ] Tirzas-Velēnas
+	- [ ] Trikātas
+	- [ ] Valkas 
+	- [ ] Valkas pilsētas
+
+---
+# Kurzeme
+- [ ] Dobeles pilskunga tiesa
+	- [ ] Jelgavas draudzes novads
+	- [ ] Dobeles
+	- [ ] Mežmuižas
+	- [ ] Sesavas
+- [ ] Bauskas pilskunga tiesa
+	- [ ] Bauskas draudzes novads
+	- [ ] Iecavas
+	- [ ] Vecumnieku
+	- [ ] Baldones
+- [ ] Jaunjelgavas p.t.
+	- [ ] Sēlpils
+	- [ ] Neretas
+	- [ ] Aizkraukles
+- [ ] Ilūkstes p.t.
+	- [ ] Daugavpils
+	- [ ] Aizlauces
+- [ ] Tukuma p.t.
+	- [ ] Tukuma draudzes novads
+	- [ ] Jaunpils
+	- [ ] Auces
+- [ ] Talsu p.t.
+	- [ ] Kandavas
+	- [ ] Sabiles
+	- [ ] Talsu draudzes novads
+	- [ ] Ārlavas
+- [ ] Kuldīgas p.t.
+	- [ ] Kuldīgas
+	- [ ] Saldus
+- [ ] Ventspils p.t.
+	- [ ] Ventspils
+	- [ ] Piltenes
+	- [ ] Dundagas
+- [ ] Aizputes p.t.
+	- [ ] Aizputes
+	- [ ] Piltenes-Aizputes
+	- [ ] Sakas
+	- [ ] Alsungas
+	- [ ] Valtaiķu
+	- [ ] Embūtes
+	- [ ] Gramzdas
+- [ ] Grobiņas p.t.
+	- [ ] Grobiņas
+	- [ ] Durbes
