@@ -1,19 +1,16 @@
 ---
 veids: Dienesta
-nosaukums_lv: Tirzas-Velēnas
-nosaukums_ger: Tirsen-Wellan Pastorat
+nosaukums_lv: Turaidas
+nosaukums_ger: Treyden Pastorat
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-  - Tyrsen-Wellan
-  - Tirzas
-  - Velēnas
 guberņa: Vidzemes
-apriņķis: Valkas
-draudzes_novads: Tirzas-Velēnas
+apriņķis: Rīgas
+draudzes_novads: Lēdurgas-Turaidas
 pagasts:
 veids_vēsturiski:
 parent_manor:
@@ -25,7 +22,7 @@ tags:
   - veids/pastorāts
 koordinātas:
 piederība_iestādēm:
-date_created: 04-04-2026 14:44 +03:00
-date_modified: 04-04-2026 14:46 +03:00
+date_created: 04-04-2026 14:48 +03:00
+date_modified: 04-04-2026 14:49 +03:00
 ---
 
