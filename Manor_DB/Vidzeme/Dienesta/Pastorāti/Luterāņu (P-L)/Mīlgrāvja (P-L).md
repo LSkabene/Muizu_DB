@@ -1,7 +1,7 @@
 ---
 veids: Dienesta
-nosaukums_lv: Mālpils
-nosaukums_ger: Lemburg Pastorat
+nosaukums_lv: Mīlgrāvja
+nosaukums_ger: Mühlgraben Pastorat
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -10,7 +10,7 @@ nosaukums_swe:
 aliases:
 guberņa: Vidzemes
 apriņķis: Rīgas
-draudzes_novads: Mālpils
+draudzes_novads:
 pagasts:
 veids_vēsturiski:
 parent_manor:
@@ -23,6 +23,6 @@ tags:
 koordinātas:
 piederība_iestādēm:
 date_created: 25-03-2026 08:55
-date_modified: 04-04-2026 01:56
+date_modified: 04-04-2026 02:00
 ---
 
