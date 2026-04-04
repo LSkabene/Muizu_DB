@@ -23,7 +23,7 @@ tags:
   - teritorija/rīgas-patrimoniālais
 koordinātas:
 piederība_iestādēm:
-date_created: 21-03-2026 07:38am
-date_modified: 24-03-2026 08:08pm
+date_created: 02-04-2026 06:39
+date_modified: 04-04-2026 01:51
 ---
 
