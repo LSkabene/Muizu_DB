@@ -21,7 +21,7 @@ dzirnavas:
 tags:
   - veids/pusmuiža
 koordinātas:
-date_created: 21-03-2026 07:38am
-date_modified: 21-03-2026 08:10pm
+date_created: 21-03-2026 13:03
+date_modified: 04-04-2026 14:39
 ---
 

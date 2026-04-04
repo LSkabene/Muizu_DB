@@ -22,7 +22,7 @@ tags:
   - veids/pastorāts
 koordinātas:
 piederība_iestādēm:
-date_created: 25-03-2026 08:55
-date_modified: 04-04-2026 02:33
+date_created: 04-04-2026 14:32 
+date_modified: 04-04-2026 14:42 
 ---
 
