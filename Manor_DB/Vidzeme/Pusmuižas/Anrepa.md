@@ -20,7 +20,6 @@ krogi:
 dzirnavas:
 tags:
   - veids/pusmuiža
-koordinātas:
 date_created: 25-03-2026 08:55
 date_modified: 04-04-2026 14:39
 ---

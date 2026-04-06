@@ -1,28 +1,25 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Akenstakas
-nosaukums_ger: Klingenberg
+nosaukums_lv: Alsviķu
+nosaukums_ger: Alswig
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-  - Akenstaķes
-  - Akenstakes
 guberņa: Vidzemes
-apriņķis: Rīgas
+apriņķis: Valkas
 draudzes_novads:
 pagasts:
-veids_vēsturiski:
+veids_vēsturiski: Aloda
 parent_manor:
 half_manors:
 krogi:
 dzirnavas:
 tags:
-  - veids/privātmuiža
 piederība_iestādēm:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 17:35 +03:00
+date_created: 06-04-2026 17:37 +03:00
+date_modified: 06-04-2026 17:41 +03:00
 ---
 

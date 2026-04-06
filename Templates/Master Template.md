@@ -18,9 +18,9 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-koordinātas:
 piederība_iestādēm:
-date_created: 25-03-2026 08:55
-date_modified: 04-04-2026 12:02
+date_created: 02-04-2026 18:39 +03:00
+date_modified: 06-04-2026 17:42 +03:00
+coordinates:
 ---
 

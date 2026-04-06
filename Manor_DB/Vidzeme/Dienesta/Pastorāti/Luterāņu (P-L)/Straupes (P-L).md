@@ -20,7 +20,6 @@ dzirnavas:
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
-koordinātas:
 piederība_iestādēm:
 date_created: 04-04-2026 14:41 +03:00
 date_modified: 04-04-2026 14:43 +03:00

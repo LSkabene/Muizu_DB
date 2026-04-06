@@ -21,9 +21,8 @@ dzirnavas:
 tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo
-koordinātas:
 piederība_iestādēm:
-date_created: 04-04-2026 14:15 
-date_modified: 04-04-2026 14:42 
+date_created: 04-04-2026 14:15
+date_modified: 04-04-2026 14:42
 ---
 
