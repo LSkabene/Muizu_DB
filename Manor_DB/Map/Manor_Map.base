@@ -1,3 +1,5 @@
+formulas:
+  map_icon: list(map_icon)[0].asFile().properties.icon
 views:
   - type: map
     name: Map
