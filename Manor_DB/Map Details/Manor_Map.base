@@ -8,3 +8,6 @@ views:
     order: []
     center: "[56.9823009406592, 25.144262380488605]"
     coordinates: note.coordinates
+    defaultZoom: 3
+    markerIcon: note.map_icon
+    markerColor: note.map_color
