@@ -24,7 +24,7 @@ tags:
 date_created: 21-03-2026 13:03 +02:00
 date_modified: 06-04-2026 18:40 +03:00
 coordinates:
-map_color:
-map_icon:
+map_color: brown
+map_icon: star-half
 ---
 

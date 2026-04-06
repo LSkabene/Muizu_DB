@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.inFolder("Manor_DB")
+        - '!file.inFolder("Manor_DB/Vidzeme/Test")'
     order:
       - veids
       - nosaukums_lv

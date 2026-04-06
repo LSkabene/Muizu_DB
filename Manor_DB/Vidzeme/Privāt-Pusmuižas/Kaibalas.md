@@ -24,7 +24,7 @@ tags:
 date_created: 21-03-2026 13:04 +02:00
 date_modified: 06-04-2026 18:43 +03:00
 coordinates: 56.69641055598077, 24.88000002638808
-map_color: peru
+map_color: brown
 map_icon: star-half
 ---
 

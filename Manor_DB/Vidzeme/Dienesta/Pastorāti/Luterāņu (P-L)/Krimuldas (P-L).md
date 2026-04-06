@@ -26,7 +26,7 @@ piederība_iestādēm:
 date_created: 02-04-2026 20:04 +03:00
 date_modified: 06-04-2026 18:40 +03:00
 coordinates:
-map_color:
-map_icon:
+map_color: steelblue
+map_icon: church
 ---
 

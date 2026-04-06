@@ -1,6 +1,6 @@
 ---
 date_created: 06-04-2026 18:14 +03:00
-date_modified: 06-04-2026 18:53 +03:00
+date_modified: 06-04-2026 19:11 +03:00
 ---
 ## Dienesta muižas
 
@@ -14,7 +14,7 @@ date_modified: 06-04-2026 18:53 +03:00
 - Krāsa: steelblue
 ##### Pareizticīgo
 - Ikona: chess-bishop
-- Krāsa:
+- Krāsa: dodgerblue
 
 ## Kroņa muižas
 - Ikona: crown
@@ -25,14 +25,22 @@ date_modified: 06-04-2026 18:53 +03:00
 
 ## Privātmuižas
 - Ikona: star
-- Krāsa: 
+- Krāsa: maroon
 ##### Privātās pusmuižas
 - Ikona: star-half
-- Krāsa:
+- Krāsa: brown
 
 ## Pilsētu muižas
 - Ikona: hotel
-- Krāsa:
+- Krāsa: darkslategray
 ## Organizāciju utt.
 - Ikona: shield
-- Krāsa:
+- Krāsa: teal
+
+## Citi
+##### Krogi
+- Ikona: drumstick
+- Krāsa: chocolate
+##### Dzirnavas
+- Ikona: wheat
+- Krāsa: darkgoldenrod

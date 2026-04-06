@@ -33,7 +33,7 @@ piederība_iestādēm:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 coordinates: 56.71162278770509, 24.8371743826684
 map_icon: star
-map_color: peachpuff
+map_color: maroon
 date_created: 02-04-2026 18:39 +03:00
 date_modified: 06-04-2026 19:03 +03:00
 ---
