@@ -22,5 +22,8 @@ tags:
   - veids/pusmuiža
 date_created: 21-03-2026 13:04
 date_modified: 04-04-2026 14:39
+coordinates:
+map_color:
+map_icon:
 ---
 

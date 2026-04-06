@@ -28,10 +28,14 @@ krogi:
 dzirnavas:
 tags:
   - veids/privātmuiža
+  - places
 piederība_iestādēm:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
+coordinates: 56.71162278770509, 24.8371743826684
+map_color:
+map_icon:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 17:42 +03:00
+date_modified: 06-04-2026 17:51 +03:00
 ---
 
 

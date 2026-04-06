@@ -24,5 +24,8 @@ tags:
 piederība_iestādēm:
 date_created: 04-04-2026 14:52 +03:00
 date_modified: 04-04-2026 14:54 +03:00
+coordinates:
+map_color:
+map_icon:
 ---
 
