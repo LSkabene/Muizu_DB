@@ -1,31 +1,31 @@
 ---
 date_created: 06-04-2026 18:14 +03:00
-date_modified: 06-04-2026 18:14 +03:00
+date_modified: 06-04-2026 18:53 +03:00
 ---
 ## Dienesta muižas
 
 ##### Mežmuižas
 - Ikona: trees
-- Krāsa:
+- Krāsa: darkgreen
 
 #### Pastorāti
 ##### Luterāņu
 - Ikona: church
-- Krāsa:
+- Krāsa: steelblue
 ##### Pareizticīgo
 - Ikona: chess-bishop
 - Krāsa:
 
 ## Kroņa muižas
 - Ikona: crown
-- Krāsa:
+- Krāsa: purple
 ##### Kroņa pusmuižas
 - Ikona: chess-pawn
-- Krāsa:
+- Krāsa: rebeccapurple
 
 ## Privātmuižas
 - Ikona: star
-- Krāsa:
+- Krāsa: 
 ##### Privātās pusmuižas
 - Ikona: star-half
 - Krāsa:
