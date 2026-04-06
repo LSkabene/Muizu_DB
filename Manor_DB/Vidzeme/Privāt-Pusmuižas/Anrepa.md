@@ -1,13 +1,14 @@
 ---
 veids: Pusmuiža
-nosaukums_lv: Kaibala
-nosaukums_ger: Kaibel
+nosaukums_lv: Anrepa
+nosaukums_ger: Anrepshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
+  - Jaunā (Lielvārdes)
 guberņa: Vidzemes
 apriņķis: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
@@ -17,11 +18,10 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-  - "[[Kaibala (Dz)]]"
 tags:
   - veids/pusmuiža
-date_created: 21-03-2026 13:04
-date_modified: 04-04-2026 14:39
+date_created: 21-03-2026 13:03 +02:00
+date_modified: 06-04-2026 18:15 +03:00
 coordinates:
 map_color:
 map_icon:
