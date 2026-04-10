@@ -35,7 +35,7 @@ coordinates: 56.71162278770509, 24.8371743826684
 map_icon: star
 map_color: maroon
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 10-04-2026 18:46 +03:00
 ---
 
 

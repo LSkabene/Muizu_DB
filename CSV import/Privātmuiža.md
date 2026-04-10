@@ -1,7 +1,7 @@
 ---
 veids: Privātmuiža
 nosaukums_lv: Baižkalna
-nosaukums_ger: Friedrichshoff
+nosaukums_ger:Friedrichshoff
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -22,6 +22,6 @@ coordinates:
 map_icon: star
 map_color: maroon
 date_created: 10-04-2026 17:50 +03:00
-date_modified: 10-04-2026 18:00 +03:00
+date_modified: 10-04-2026 19:00 +03:00
 ---
 

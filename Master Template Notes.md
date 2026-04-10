@@ -1,8 +1,8 @@
 ---
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 17:42 +03:00
+date_modified: 10-04-2026 19:03 +03:00
 ---
-
+[[testa muiža]]
 # Template - Manor (Replace with the name/title of note if you want; h1 should match titles)
 
 %%Text found between double percentage-signs is only viewable in Source Mode, so you can leave yourself comments and notes that are hidden in Reading/Live Preview modes. Notice how it looks stylistically different in Source Mode, it is probably a grayish text. Requires double percentage-signs at the end to close, like so: %%

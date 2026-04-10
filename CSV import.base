@@ -13,16 +13,17 @@ views:
       - nosaukums_pol
       - nosaukums_swe
       - aliases
-      - gubera
-      - apriis
+      - guberna
+      - aprinkis
       - draudzes_novads
-      - veids_vsturiski
       - pagasts
+      - veids_vesturiski
+      - parent_manor
       - half_manors
       - krogi
       - dzirnavas
+      - piederiba_iestadem
       - tags
-      - piederba_iestdm
       - coordinates
       - map_icon
       - map_color
