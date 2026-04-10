@@ -15,10 +15,10 @@ aliases:
   - Lendenwarden
   - Lennewaden
   - Lenowart
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
-veids_vēsturiski:
+veids_vesturiski:
 pagasts:
 parent_manor:
 half_manors:
@@ -29,13 +29,13 @@ dzirnavas:
 tags:
   - veids/privātmuiža
   - places
-piederība_iestādēm:
+piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 coordinates: 56.71162278770509, 24.8371743826684
 map_icon: star
 map_color: maroon
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 19:52 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 ---
 
 

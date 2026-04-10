@@ -9,11 +9,11 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
   - Aldera
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads:
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
@@ -21,9 +21,9 @@ dzirnavas:
 tags:
   - veids/privātmuiža
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 06-04-2026 17:35 +03:00
-date_modified: 06-04-2026 19:52 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color: maroon
 map_icon: star

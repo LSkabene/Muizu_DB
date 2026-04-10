@@ -9,11 +9,11 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
   - Lielvārdes
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
@@ -22,9 +22,9 @@ tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 04-04-2026 14:15 +03:00
-date_modified: 06-04-2026 18:49 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color:
 map_icon:

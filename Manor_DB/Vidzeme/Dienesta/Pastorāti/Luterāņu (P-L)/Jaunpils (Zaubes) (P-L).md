@@ -10,11 +10,11 @@ nosaukums_swe:
 aliases:
   - Jaunpils (Zaubes)
   - Zaubes
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads: Jaunpils (Zaubes)
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
@@ -23,9 +23,9 @@ tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 19:52 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church

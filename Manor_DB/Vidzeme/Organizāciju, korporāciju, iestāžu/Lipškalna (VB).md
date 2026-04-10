@@ -9,11 +9,11 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
   - Lipskalna
-guberņa: Vidzemes
-apriņķis: Valkas
+guberna: Vidzemes
+aprinkis: Valkas
 draudzes_novads: Trikātas
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
@@ -22,9 +22,9 @@ tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 18:48 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color:
 map_icon:

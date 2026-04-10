@@ -10,16 +10,16 @@ nosaukums_swe:
 aliases:
   - Appeltenes
   - Apelthen
-guberņa: Vidzemes
-apriņķis: Cēsu
+guberna: Vidzemes
+aprinkis: Cēsu
 draudzes_novads: Cesvaines
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-piederība_iestādēm:
+piederiba_iestadem:
 tags:
   - veids/privātmuiža
   - places
@@ -27,6 +27,6 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 19:37 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 ---
 

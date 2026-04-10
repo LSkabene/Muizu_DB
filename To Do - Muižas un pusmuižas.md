@@ -1,9 +1,9 @@
 ---
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 18:08 +03:00
+date_modified: 10-04-2026 18:26 +03:00
 ---
 # Vidzeme
-- [ ] Rīgas apriņķis
+- [ ] Rīgas aprinkis
 	- [ ] Aizkraukles draudzes novads
 	- [ ] Akmeņsalas
 	- [ ] Allažu
@@ -24,7 +24,7 @@ date_modified: 06-04-2026 18:08 +03:00
 	- [ ] Skultes
 	- [ ] Slokas
 	- [ ] Suntažu
-- [ ] Cēsu apriņķis
+- [ ] Cēsu aprinkis
 	- [ ] Cēsu pilsēta
 	- [ ] Āraišu
 	- [ ] Bērzaunes
@@ -42,7 +42,7 @@ date_modified: 06-04-2026 18:08 +03:00
 	- [ ] Raunas
 	- [ ] Skujenes
 	- [ ] Vecpiebalgas
-- [ ] Valmieras apriņķis
+- [ ] Valmieras aprinkis
 	- [ ] Alojas
 	- [ ] Burtnieku
 	- [ ] Dikļu
@@ -58,7 +58,7 @@ date_modified: 06-04-2026 18:08 +03:00
 	- [ ] Umurgas
 	- [ ] Valmieras
 	- [ ] Valmieras pilsēta
-- [ ] Valkas apriņķis
+- [ ] Valkas aprinkis
 	- [ ] Alūksnes
 	- [ ] Apekalna
 	- [ ] Ērģemes

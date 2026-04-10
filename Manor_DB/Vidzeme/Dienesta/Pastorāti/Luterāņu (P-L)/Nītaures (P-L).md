@@ -9,11 +9,11 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
   - Nietau
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads: Nītaures
 pagasts:
-veids_vēsturiski:
+veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
@@ -22,9 +22,9 @@ tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 04-04-2026 14:00 +03:00
-date_modified: 06-04-2026 19:52 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church

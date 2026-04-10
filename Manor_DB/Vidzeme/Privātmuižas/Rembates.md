@@ -8,10 +8,10 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberņa: Vidzemes
-apriņķis: Rīgas
+guberna: Vidzemes
+aprinkis: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
-veids_vēsturiski: pusmuiža
+veids_vesturiski: pusmuiža
 pagasts:
 parent_manor:
 half_manors:
@@ -25,9 +25,9 @@ dzirnavas:
 tags:
   - veids/privātmuiža
   - places
-piederība_iestādēm:
+piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-04-2026 19:52 +03:00
+date_modified: 10-04-2026 18:27 +03:00
 coordinates:
 map_color: maroon
 map_icon: star
