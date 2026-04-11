@@ -1,17 +1,16 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Bērzaunes
-nosaukums_ger: Bersohn
+nosaukums_lv: Blomes
+nosaukums_ger: Kulsdorf
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-  - Bērzone
 guberna: Vidzemes
-aprinkis: Cēsu
-draudzes_novads: Bērzaunes
+aprinkis: Valmieras
+draudzes_novads: Liepmuižas-Vestienas
 pagasts:
 veids_vesturiski:
 parent_manor:
@@ -26,6 +25,6 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 09:58 +03:00
+date_modified: 11-04-2026 10:19 +03:00
 ---
 
