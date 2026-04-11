@@ -20,8 +20,8 @@ views:
       - half_manors
       - parent_manor
     sort:
-      - property: veids
-        direction: DESC
+      - property: nosaukums_lv
+        direction: ASC
       - property: koordinātas
         direction: ASC
       - property: nosaukums_rus

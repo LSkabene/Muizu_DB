@@ -1,7 +1,7 @@
 ---
 veids: Dienesta
 nosaukums_lv: Trikātas
-nosaukums_ger: Trikaten
+nosaukums_ger: Trikaten Pastorat
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
