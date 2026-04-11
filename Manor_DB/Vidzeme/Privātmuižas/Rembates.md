@@ -27,8 +27,8 @@ tags:
   - places
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
-coordinates:
+date_modified: 11-04-2026 09:33 +03:00
+coordinates: 56.71983477775278, 24.801639614208117
 map_color: maroon
 map_icon: star
 ---

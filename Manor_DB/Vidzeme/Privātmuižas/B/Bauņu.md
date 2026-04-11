@@ -1,7 +1,7 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Bānūžu
-nosaukums_ger: Bahnus
+nosaukums_lv: Bauņu
+nosaukums_ger: Bauenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -9,20 +9,22 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
 guberna: Vidzemes
-aprinkis: Valkas
-draudzes_novads: Smiltenes
+aprinkis: Valmieras
+draudzes_novads: Matīšu
 pagasts:
-veids_vesturiski:
+veids_vesturiski: Fideikomiss
 parent_manor:
 half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
 tags:
+  - veids/privātmuiža
+  - places
 coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 09:28 +03:00
+date_modified: 11-04-2026 09:41 +03:00
 ---
 
