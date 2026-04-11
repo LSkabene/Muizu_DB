@@ -1,16 +1,18 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Braslavas
-nosaukums_ger: Breslau
+nosaukums_lv: Brentu
+nosaukums_ger: Kokenberg
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
+  - Brentes
+  - Kockenberg
 guberna: Vidzemes
-aprinkis: Valmieras
-draudzes_novads: Matīšu
+aprinkis: Valkas
+draudzes_novads: Ērģemes
 pagasts:
 veids_vesturiski:
 parent_manor:
@@ -25,6 +27,6 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 10:29 +03:00
+date_modified: 11-04-2026 10:30 +03:00
 ---
 

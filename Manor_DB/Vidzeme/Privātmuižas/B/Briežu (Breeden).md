@@ -1,7 +1,7 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Braslavas
-nosaukums_ger: Breslau
+nosaukums_lv: Briežu
+nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -10,7 +10,7 @@ nosaukums_swe:
 aliases:
 guberna: Vidzemes
 aprinkis: Valmieras
-draudzes_novads: Matīšu
+draudzes_novads:
 pagasts:
 veids_vesturiski:
 parent_manor:
@@ -25,6 +25,6 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 10:29 +03:00
+date_modified: 11-04-2026 10:34 +03:00
 ---
 

@@ -1,18 +1,26 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Braslavas
-nosaukums_ger: Breslau
+nosaukums_lv: Briņģu
+nosaukums_ger: Brinkenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
+  - Sustel-Brinkenhof
+  - Brinkenhof-Sustel
+  - Sustel
+  - Sustehl
+  - Brinģe
+  - Briņķu
+  - Bringe
+  - Bringu
 guberna: Vidzemes
-aprinkis: Valmieras
-draudzes_novads: Matīšu
+aprinkis: Cēsu
+draudzes_novads: Vecpiebalgas
 pagasts:
-veids_vesturiski:
+veids_vesturiski: Fideikomiss
 parent_manor:
 half_manors:
 krogi:
@@ -25,6 +33,6 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 10:29 +03:00
+date_modified: 11-04-2026 10:36 +03:00
 ---
 
