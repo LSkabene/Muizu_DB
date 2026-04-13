@@ -1,17 +1,17 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Drabešu
-nosaukums_ger: Drobbusch
+nosaukums_lv: Dripatu
+nosaukums_ger: Rammenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-  - Drobusch
+  - Ramenhof
 guberna: Vidzemes
-aprinkis: Cēsu
-draudzes_novads: Āraišu
+aprinkis: Valmieras
+draudzes_novads: Alojas
 pagasts:
 veids_vesturiski:
 parent_manor:
@@ -20,12 +20,12 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 tags:
-  - pārbaudīt
+  - places
   - veids/privātmuiža
 coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 13-04-2026 19:52 +03:00
+date_modified: 13-04-2026 20:03 +03:00
 ---
 
