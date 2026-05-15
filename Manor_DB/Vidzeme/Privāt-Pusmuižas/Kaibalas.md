@@ -26,5 +26,6 @@ date_modified: 10-04-2026 18:27 +03:00
 coordinates: 56.69641055598077, 24.88000002638808
 map_color: brown
 map_icon: star-half
+publish: true
 ---
 

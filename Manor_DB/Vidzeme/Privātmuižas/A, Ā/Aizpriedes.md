@@ -29,5 +29,6 @@ date _created: 25-03-2026 08:55
 coordinates:
 map_color: maroon
 map_icon: star
+publish: true
 ---
 

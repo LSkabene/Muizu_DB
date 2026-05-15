@@ -26,5 +26,6 @@ map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
 date_modified: 13-04-2026 19:34 +03:00
+publish: true
 ---
 
