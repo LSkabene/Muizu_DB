@@ -1,6 +1,7 @@
 ---
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 19:10 +03:00
+date_modified: 17-05-2026 09:51 +03:00
+publish:
 ---
 
 # Template - Manor (Replace with the name/title of note if you want; h1 should match titles)
