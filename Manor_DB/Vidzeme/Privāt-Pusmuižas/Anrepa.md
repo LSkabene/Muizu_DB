@@ -22,7 +22,7 @@ tags:
   - veids/pusmuiža
   - places
 date_created: 21-03-2026 13:03 +02:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 06-06-2026 09:30 +03:00
 coordinates:
 map_color: brown
 map_icon: star-half

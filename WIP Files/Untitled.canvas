@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"dff902486e3c745f","x":-580,"y":-300,"width":250,"height":60,"type":"text","text":"Homepage (index.md)\n"},
-		{"id":"46471a2257f2995c","x":-200,"y":-300,"width":380,"height":200,"type":"text","text":"**Datubāze**\n"},
-		{"id":"69cdabf14b463f57","x":-635,"y":-160,"width":360,"height":360,"type":"text","text":"Individuālie ieraksti"}
+		{"id":"46471a2257f2995c","type":"text","text":"**Datubāze**\n","x":-200,"y":-300,"width":380,"height":200},
+		{"id":"69cdabf14b463f57","type":"text","text":"Individuālie ieraksti","x":-635,"y":-160,"width":360,"height":360},
+		{"id":"dff902486e3c745f","type":"text","text":"Homepage (index.md)\n","x":-635,"y":-300,"width":250,"height":60}
 	],
 	"edges":[]
 }

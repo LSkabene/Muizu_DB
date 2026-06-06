@@ -23,7 +23,7 @@ tags:
   - places
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 06-06-2026 09:22 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church
