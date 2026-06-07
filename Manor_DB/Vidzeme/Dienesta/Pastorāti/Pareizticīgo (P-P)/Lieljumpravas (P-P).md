@@ -24,7 +24,7 @@ tags:
   - places
 piederiba_iestadem:
 date_created: 04-04-2026 14:15 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 07-06-2026 10:28 +03:00
 coordinates:
 map_color:
 map_icon:
