@@ -14,18 +14,18 @@ draudzes_novads: Cēsu
 pagasts:
 veids_vesturiski:
 parent_manor:
+half_manors:
 krogi:
 dzirnavas:
 tags:
 piederiba_iestadem:
 date_created: 17-05-2026 12:19 +03:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates:
 map_color:
 map_icon:
 publish: false
 file_name: testa muiža
-half_manors:
 ---
 
 there are words here

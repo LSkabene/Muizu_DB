@@ -15,16 +15,16 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski: Aloda
 parent_manor:
+half_manors:
 krogi:
 dzirnavas:
 tags: places
 piederiba_iestadem:
 date_created: 06-04-2026 17:37 +03:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates:
 map_color: maroon
 map_icon: star
 publish: true
-half_manors:
 ---
 

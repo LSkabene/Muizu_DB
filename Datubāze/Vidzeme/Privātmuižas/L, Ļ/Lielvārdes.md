@@ -22,6 +22,9 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+half_manors:
+  - "[[Anrepa]]"
+  - "[[Kaibalas]]"
 krogi:
 dzirnavas:
 tags:
@@ -30,14 +33,11 @@ tags:
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star
 publish: true
-half_manors:
-  - "[[Anrepa]]"
-  - "[[Kaibalas]]"
 ---
 
 `= this.nosaukums_lv` muiža atradās `= this.guberna` guberņā.

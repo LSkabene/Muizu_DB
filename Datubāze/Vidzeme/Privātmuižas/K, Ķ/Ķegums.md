@@ -16,6 +16,7 @@ pagasts:
 veids_vesturiski: pusmuiža
 parent_manor:
   - "[[Rembates]]"
+half_manors:
 krogi:
 dzirnavas:
 tags:
@@ -23,11 +24,10 @@ tags:
   - places
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates: 56.73900386394024, 24.720827177880583
 map_color: maroon
 map_icon: star
 publish: true
-half_manors:
 ---
 

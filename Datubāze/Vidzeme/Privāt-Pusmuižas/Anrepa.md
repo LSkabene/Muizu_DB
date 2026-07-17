@@ -16,17 +16,17 @@ aprinkis_LV:
 veids_vesturiski:
 parent_manor:
   - "[[Lielvārdes]]"
+half_manors:
 krogi:
 dzirnavas:
 tags:
   - veids/pusmuiža
   - places
 date_created: 21-03-2026 13:03 +02:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates:
 map_color: brown
 map_icon: star-half
 publish: true
-half_manors:
 ---
 
