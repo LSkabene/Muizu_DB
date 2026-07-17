@@ -1,16 +1,17 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Cēsu pilsmuiža
-nosaukums_ger: Schloss Wenden
+nosaukums_lv: Cimmermaņa
+nosaukums_ger: Zimmermanns Gelegenheit
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
+  - Cimmermana
 guberna: Vidzemes
-aprinkis: Cēsu
-draudzes_novads: Cēsu
+aprinkis: Rīgas
+draudzes_novads:
 pagasts:
 veids_vesturiski:
 parent_manor:
@@ -25,7 +26,7 @@ coordinates:
 map_icon:
 map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 13-04-2026 19:30 +03:00
+date_modified: 17-07-2026 18:40 +03:00
 publish: true
 ---
 
