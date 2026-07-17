@@ -11,12 +11,12 @@ aliases:
   - Ziemeļ-Rūjienas
   - Nord-Rujen
 guberna: Vidzemes
-aprinkis: Valmieras
+aprinkis_imperija: Valmieras
 draudzes_novads: Rūjienas
+aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
 tags:
@@ -25,10 +25,11 @@ tags:
   - places
 piederiba_iestadem:
 date_created: 04-04-2026 14:29 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 17-07-2026 19:25 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church
 publish: true
+half_manors:
 ---
 

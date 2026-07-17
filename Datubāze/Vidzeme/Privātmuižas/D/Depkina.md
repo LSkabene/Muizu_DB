@@ -10,24 +10,25 @@ nosaukums_swe:
 aliases:
   - Merķeļmuiža
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads:
+aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
-piederiba_iestadem:
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - places
-coordinates:
-map_icon:
-map_color:
+piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 13-04-2026 19:40 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+coordinates:
+map_color:
+map_icon:
 publish: true
+half_manors:
 ---
 

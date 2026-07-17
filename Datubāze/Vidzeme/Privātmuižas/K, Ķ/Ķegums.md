@@ -9,24 +9,25 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
+aprinkis_LV:
 pagasts:
 veids_vesturiski: pusmuiža
 parent_manor:
   - "[[Rembates]]"
-half_manors:
 krogi:
 dzirnavas:
-piederiba_iestadem:
 tags:
   - veids/privātmuiža
   - places
-coordinates: 56.73900386394024, 24.720827177880583
-map_icon: star
-map_color: maroon
+piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 07-06-2026 18:04 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+coordinates: 56.73900386394024, 24.720827177880583
+map_color: maroon
+map_icon: star
 publish: true
+half_manors:
 ---
 

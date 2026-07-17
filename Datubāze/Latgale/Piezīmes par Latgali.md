@@ -1,6 +1,8 @@
 ---
+aprinkis_LV:
 date_created: 17-07-2026 18:29 +03:00
-date_modified: 17-07-2026 18:46 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+publish: true
 ---
 Kur atrast muižu tipoloģiju?
 Pagaidām vienkārši alfabētiski. Nepublicēt.
