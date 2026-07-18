@@ -21,6 +21,7 @@ dzirnavas:
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 piederiba_iestadem:
 date_created: 06-04-2026 17:36 +03:00
 date_modified: 17-07-2026 19:59 +03:00

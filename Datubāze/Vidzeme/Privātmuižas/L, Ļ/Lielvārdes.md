@@ -30,6 +30,7 @@ dzirnavas:
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 date_created: 02-04-2026 18:39 +03:00

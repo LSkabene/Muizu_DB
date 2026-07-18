@@ -18,7 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: places
+tags:
+  - places
+  - Vidzeme
 piederiba_iestadem:
 date_created: 06-04-2026 17:37 +03:00
 date_modified: 17-07-2026 19:59 +03:00

@@ -22,6 +22,7 @@ tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 piederiba_iestadem:
 date_created: 04-04-2026 14:46 +03:00
 date_modified: 17-07-2026 19:59 +03:00

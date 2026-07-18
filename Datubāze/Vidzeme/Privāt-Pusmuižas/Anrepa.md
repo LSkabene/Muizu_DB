@@ -22,6 +22,7 @@ dzirnavas:
 tags:
   - veids/pusmuiža
   - places
+  - Vidzeme
 date_created: 21-03-2026 13:03 +02:00
 date_modified: 17-07-2026 19:59 +03:00
 coordinates:
