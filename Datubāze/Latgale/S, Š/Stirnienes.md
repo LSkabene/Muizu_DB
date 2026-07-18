@@ -1,6 +1,6 @@
 ---
 veids:
-nosaukums_lv: Luknas
+nosaukums_lv: Stirnienes
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -8,11 +8,12 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
+  - Stirnienas
 guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
 aprinkis_LV: Rēzeknes apriņķis
-pagasts: Ružinas pagasts
+pagasts: Stirnienas pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
@@ -21,10 +22,9 @@ dzirnavas:
 tags:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 07:50 +03:00
+date_modified: 18-07-2026 07:55 +03:00
 coordinates:
 map_color:
 map_icon:
-publish: true
 ---
 

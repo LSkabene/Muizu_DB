@@ -1,6 +1,6 @@
 ---
 veids:
-nosaukums_lv: Luknas
+nosaukums_lv: Antonišķu
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -12,7 +12,7 @@ guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
 aprinkis_LV: Rēzeknes apriņķis
-pagasts: Ružinas pagasts
+pagasts: Silajāņu pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
@@ -21,10 +21,9 @@ dzirnavas:
 tags:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 07:50 +03:00
+date_modified: 18-07-2026 07:52 +03:00
 coordinates:
 map_color:
 map_icon:
-publish: true
 ---
 
