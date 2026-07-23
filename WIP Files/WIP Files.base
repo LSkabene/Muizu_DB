@@ -1,4 +1,4 @@
-filters: file.folder == "CSV import"
+filters: file.folder == "WIP Files"
 views:
   - type: table
     name: Table

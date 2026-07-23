@@ -1,7 +1,5 @@
 ---
-file_name: Grotužu
 veids: privātmuiža
-nosaukums_LV: Grotužu
 nosaukums_ger: Grothusenshof
 nosaukums_rus:
 nosaukums_est:
@@ -22,9 +20,13 @@ dzirnavas:
 tags:
   - places
   - veids/privātmuiža
+date_created: 18-07-2026 15:56 +03:00
+date_modified: 23-07-2026 20:32 +03:00
 coordinates:
 map_color:
 map_icon:
 publish: true
+file_name: Grotužu
+nosaukums_LV: Grotužu
 ---
 
