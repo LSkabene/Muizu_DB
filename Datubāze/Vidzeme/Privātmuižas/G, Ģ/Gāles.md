@@ -1,5 +1,6 @@
 ---
 veids: privātmuiža
+nosaukums_lv: Gāles
 nosaukums_ger: Gahlenhof
 nosaukums_rus:
 nosaukums_est:
@@ -21,12 +22,11 @@ tags:
   - places
   - veids/privātmuiža
 date_created: 18-07-2026 15:56 +03:00
-date_modified: 18-07-2026 16:00 +03:00
+date_modified: 23-07-2026 20:59 +03:00
 coordinates:
 map_color:
 map_icon:
 publish: true
 file_name: Gāles
-nosaukums_LV: Gāles
 ---
-
+nosaukums_lv

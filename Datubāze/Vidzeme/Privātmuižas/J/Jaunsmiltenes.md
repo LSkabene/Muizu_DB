@@ -1,6 +1,5 @@
 ---
 veids:
-nosaukums_LV: Jaunsmiltenes
 nosaukums_ger: Neu-Smilten
 nosaukums_rus:
 nosaukums_est:
@@ -20,11 +19,11 @@ krogi:
 dzirnavas:
 tags:
 date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:32 +03:00
+date_modified: 23-07-2026 20:51 +03:00
 coordinates:
 map_color:
 map_icon:
 publish:
-file_name: Jaunsmiltenes
+nosaukums_LV: Jaunsmiltenes
 ---
-
+nosaukums_lv

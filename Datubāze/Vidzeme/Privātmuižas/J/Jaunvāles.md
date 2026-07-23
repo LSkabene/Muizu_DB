@@ -19,11 +19,11 @@ krogi:
 dzirnavas:
 tags:
 date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:34 +03:00
+date_modified: 23-07-2026 20:51 +03:00
 coordinates:
 map_color:
 map_icon:
 publish:
 nosaukums_LV: Jaunvāles
 ---
-
+nosaukums_lv

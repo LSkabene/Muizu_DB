@@ -1,5 +1,6 @@
 ---
 veids: privātmuiža
+nosaukums_lv: Feliksa
 nosaukums_ger: Felix
 nosaukums_rus:
 nosaukums_est:
@@ -21,12 +22,11 @@ tags:
   - places
   - veids/privātmuiža
 date_created: 18-07-2026 15:56 +03:00
-date_modified: 18-07-2026 16:00 +03:00
+date_modified: 23-07-2026 20:58 +03:00
 coordinates:
 map_color:
 map_icon:
 publish: true
 file_name: Feliksa
-nosaukums_LV: Feliksa
 ---
-
+nosaukums_lv

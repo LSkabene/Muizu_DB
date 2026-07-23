@@ -1,30 +1,30 @@
 ---
-veids: 
-nosaukums_ger: "Neu-Lasdohn"
-nosaukums_rus: 
-nosaukums_est: 
-nosaukums_lt: 
-nosaukums_pol: 
-nosaukums_swe: 
-aliases: 
-guberna: 
-aprinkis_imperija: "Cēsu"
-draudzes_novads: 
-aprinkis_LV: 
-pagasts: 
-veids_vesturiski: "pusmuiža"
+veids:
+nosaukums_ger: Neu-Lasdohn
+nosaukums_rus:
+nosaukums_est:
+nosaukums_lt:
+nosaukums_pol:
+nosaukums_swe:
+aliases:
+guberna:
+aprinkis_imperija: Cēsu
+draudzes_novads:
+aprinkis_LV:
+pagasts:
+veids_vesturiski: pusmuiža
 parent_manor: "[[Veclazdonas]]"
-half_manors: 
-krogi: 
-dzirnavas: 
-tags: 
+half_manors:
+krogi:
+dzirnavas:
+tags:
 date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:32 +03:00
-coordinates: 
-map_color: 
-map_icon: 
-publish: 
-file_name: "Jaunlazdonas"
-nosaukums_LV: "Jaunlazdonas"
+date_modified: 23-07-2026 20:51 +03:00
+coordinates:
+map_color:
+map_icon:
+publish:
+file_name: Jaunlazdonas
+nosaukums_LV: Jaunlazdonas
 ---
-
+nosaukums_lv
