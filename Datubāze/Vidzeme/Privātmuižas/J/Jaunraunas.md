@@ -1,5 +1,6 @@
 ---
-veids:
+veids: privātmuiža
+nosaukums_lv: Jaunraunas
 nosaukums_ger: Ronneburg-Neuhof
 nosaukums_rus:
 nosaukums_est:
@@ -7,7 +8,7 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberna:
+guberna: Vidzemes
 aprinkis_imperija: Cēsu
 draudzes_novads:
 aprinkis_LV:
@@ -18,13 +19,9 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:51 +03:00
 coordinates:
 map_color:
 map_icon:
-publish:
-file_name: Jaunraunas
-nosaukums_LV: Jaunraunas
+publish: true
 ---
-nosaukums_lv
+

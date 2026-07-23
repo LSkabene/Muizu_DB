@@ -1,5 +1,6 @@
 ---
-veids:
+veids: privātmuiža
+nosaukums_lv: Vecjērcēnu
 nosaukums_ger: Neu-Wohlfahrt
 nosaukums_rus:
 nosaukums_est:
@@ -7,7 +8,7 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberna:
+guberna: Vidzemes
 aprinkis_imperija: Valkas
 draudzes_novads:
 aprinkis_LV:
@@ -18,13 +19,9 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:52 +03:00
 coordinates:
 map_color:
 map_icon:
-publish:
-file_name: Vecjērcēnu
-nosaukums_LV: Vecjērcēnu
+publish: true
 ---
 

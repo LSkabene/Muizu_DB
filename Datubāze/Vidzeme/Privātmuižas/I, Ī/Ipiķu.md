@@ -1,5 +1,6 @@
 ---
-veids:
+veids: privātmuiža
+nosaukums_lv: Ipiķu
 nosaukums_ger: Ippik
 nosaukums_rus:
 nosaukums_est:
@@ -7,7 +8,7 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberna:
+guberna: Vidzemes
 aprinkis_imperija: Valmieras
 draudzes_novads:
 aprinkis_LV:
@@ -18,13 +19,9 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:51 +03:00
 coordinates:
 map_color:
 map_icon:
-publish:
-file_name: Ipiķu
-nosaukums_LV: Ipiķu
+publish: true
 ---
-nosaukums_lv
+

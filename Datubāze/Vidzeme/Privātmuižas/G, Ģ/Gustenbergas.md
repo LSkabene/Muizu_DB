@@ -1,5 +1,6 @@
 ---
 veids: privātmuiža
+nosaukums_lv: Gustenbergas
 nosaukums_ger: Gustavsberg
 nosaukums_rus:
 nosaukums_est:
@@ -18,13 +19,11 @@ half_manors:
 krogi:
 dzirnavas:
 tags:
-date_created: 23-07-2026 20:28 +03:00
-date_modified: 23-07-2026 20:51 +03:00
+date_created: 23-07-2026 21:12
+date_modified: 23-07-2026 21:13
 coordinates:
 map_color:
 map_icon:
-publish:
-file_name: Gustenbergas
-nosaukums_LV: Gustenbergas
+publish: true
 ---
-nosaukums_lv
+
