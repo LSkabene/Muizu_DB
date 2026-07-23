@@ -40,7 +40,7 @@ tags:
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 21-07-2026 19:40 +03:00
+date_modified: 21-07-2026 20:04 +03:00
 coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star
