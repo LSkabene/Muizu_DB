@@ -24,8 +24,8 @@ tags:
   - veids/pusmuiža
   - places
   - Vidzeme
-date_created: 21-03-2026 13:03 +02:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 21-03-2026 13:03
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color: brown
 map_icon: star-half

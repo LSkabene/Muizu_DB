@@ -25,8 +25,8 @@ tags:
   - places
   - Vidzeme
 piederiba_iestadem:
-date_created: 02-04-2026 20:23 +03:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 02-04-2026 20:23
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color: steelblue
 map_icon: church

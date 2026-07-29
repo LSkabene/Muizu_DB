@@ -21,8 +21,8 @@ dzirnavas:
 tags:
   - places
   - veids/privātmuiža
-date_created: 18-07-2026 15:56 +03:00
-date_modified: 23-07-2026 20:55 +03:00
+date_created: 18-07-2026 15:56
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color:
 map_icon:

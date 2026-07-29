@@ -39,8 +39,8 @@ tags:
   - Vidzeme
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 23-07-2026 20:28 +03:00
+date_created: 02-04-2026 18:39
+date_modified: 23-07-2026 21:15
 coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star

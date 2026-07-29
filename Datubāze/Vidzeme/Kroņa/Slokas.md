@@ -22,8 +22,8 @@ tags:
   - veids/kroņa_muiža
   - places
 piederiba_iestadem:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 23-07-2026 19:36 +03:00
+date_created: 23-07-2026 19:32
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color: purple
 map_icon: crown

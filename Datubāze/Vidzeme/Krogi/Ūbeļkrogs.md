@@ -19,8 +19,8 @@ parent_manor:
 half_manors:
 tags:
   - veids/krogs
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 21-07-2026 19:42 +03:00
+date_created: 21-07-2026 19:40
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color:
 map_icon:

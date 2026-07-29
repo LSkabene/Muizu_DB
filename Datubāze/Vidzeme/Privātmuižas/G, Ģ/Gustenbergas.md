@@ -20,7 +20,7 @@ krogi:
 dzirnavas:
 tags:
 date_created: 23-07-2026 21:12
-date_modified: 23-07-2026 21:13
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color:
 map_icon:
