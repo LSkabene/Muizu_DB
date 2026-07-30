@@ -1,6 +1,6 @@
 ---
-veids:
-nosaukums_lv: Istras
+veids: Folvarks
+nosaukums_lv: Pļaviņu
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -15,11 +15,12 @@ aprinkis_LV: Ludzas apriņķis
 pagasts: Istras pagasts
 veids_vesturiski:
 parent_manor:
+  - "[[Istras]]"
 half_manors:
-  - "[[Pļaviņu]]"
 krogi:
 dzirnavas:
 tags:
+  - veids/folvarks
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
