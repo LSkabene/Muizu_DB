@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunpaegļu
 nosaukums_ger: Jaun-Paegel
 nosaukums_rus:

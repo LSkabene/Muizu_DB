@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ēveles
 nosaukums_ger: Alt-Wohlfahrt
 nosaukums_rus:

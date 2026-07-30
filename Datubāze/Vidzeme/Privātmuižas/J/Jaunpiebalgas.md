@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunpiebalgas
 nosaukums_ger: Neu-Pebalg
 nosaukums_rus:

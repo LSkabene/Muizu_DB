@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ilbrates
 nosaukums_ger: Adamshof
 nosaukums_rus:

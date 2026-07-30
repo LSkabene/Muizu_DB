@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Inčukalna
 nosaukums_ger: Hinzenberg
 nosaukums_rus:

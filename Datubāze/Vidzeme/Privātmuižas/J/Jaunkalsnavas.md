@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunkalsnavas
 nosaukums_ger: Neu-Kalzenau
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gatartas
 nosaukums_ger: Gotthardsberg
 nosaukums_rus:

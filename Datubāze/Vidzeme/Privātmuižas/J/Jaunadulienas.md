@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunadulienas
 nosaukums_ger: Neu-Adlehn
 nosaukums_rus:

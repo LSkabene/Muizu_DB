@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunburtnieku
 nosaukums_ger: Sternhof
 nosaukums_rus:

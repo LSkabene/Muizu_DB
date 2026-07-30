@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunalūksnes
 nosaukums_ger: Neu-Marienburg
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Grēpera
 nosaukums_ger: Neuhof
 nosaukums_rus:

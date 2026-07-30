@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gusta
 nosaukums_ger: Gränhof
 nosaukums_rus:

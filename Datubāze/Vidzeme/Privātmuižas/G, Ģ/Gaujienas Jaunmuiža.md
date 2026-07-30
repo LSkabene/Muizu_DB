@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gaujienas Jaunmuiža
 nosaukums_ger: Frauenthal
 nosaukums_rus:

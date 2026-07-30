@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Inciema
 nosaukums_ger: Inzeem
 nosaukums_rus:

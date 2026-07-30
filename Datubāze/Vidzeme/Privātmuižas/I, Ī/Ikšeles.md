@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ikšeles
 nosaukums_ger: Uexküllshof
 nosaukums_rus:

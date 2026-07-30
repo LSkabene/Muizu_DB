@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Garšmuiža
 nosaukums_ger: Gahrschenhof
 nosaukums_rus:

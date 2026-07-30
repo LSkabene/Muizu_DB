@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Feliksa
 nosaukums_ger: Felix
 nosaukums_rus:

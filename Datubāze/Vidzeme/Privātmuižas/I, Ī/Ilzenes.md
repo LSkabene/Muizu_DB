@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ilzenes
 nosaukums_ger: Ilsen
 nosaukums_rus:

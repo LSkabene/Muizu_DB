@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ieriķu
 nosaukums_ger: Ramotzky
 nosaukums_rus:

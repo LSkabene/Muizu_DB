@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Engelartas
 nosaukums_ger: Engelhardtshof
 nosaukums_rus:

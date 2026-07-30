@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunraunas
 nosaukums_ger: Ronneburg-Neuhof
 nosaukums_rus:

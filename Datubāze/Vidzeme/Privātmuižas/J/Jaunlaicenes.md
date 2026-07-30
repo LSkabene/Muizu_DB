@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunlaicenes
 nosaukums_ger: Neu-Laitzen
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunjērcēnu
 nosaukums_ger: Wohlfahrtslinde
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunpatkules
 nosaukums_ger: Neu-Hilsen
 nosaukums_rus:

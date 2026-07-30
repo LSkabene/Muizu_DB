@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Igates
 nosaukums_ger: Idsel
 nosaukums_rus:

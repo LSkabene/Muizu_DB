@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunķempju
 nosaukums_ger: Neu-Kempenhof
 nosaukums_rus:

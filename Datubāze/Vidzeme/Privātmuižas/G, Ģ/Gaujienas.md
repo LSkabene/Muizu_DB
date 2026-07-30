@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gaujienas
 nosaukums_ger: Adsel
 nosaukums_rus:

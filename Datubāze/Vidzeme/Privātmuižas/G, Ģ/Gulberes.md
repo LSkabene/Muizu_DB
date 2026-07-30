@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gulberes
 nosaukums_ger: Gulbern
 nosaukums_rus:

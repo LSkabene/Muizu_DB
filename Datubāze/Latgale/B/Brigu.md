@@ -1,32 +1,32 @@
 ---
 veids: Privātmuiža
-nosaukums_lv: Grundzāles
-nosaukums_ger: Grundsahl
+nosaukums_lv: Brigu
+nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberna: Vidzemes
-aprinkis_imperija: Valkas
+  - Briģu
+guberna: Vitebskas
+aprinkis_imperija:
 draudzes_novads:
-aprinkis_LV:
-pagasts:
+aprinkis_LV: Ludzas apriņķis
+pagasts: Brigu pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
 krogi:
 dzirnavas:
 tags:
-  - places
   - veids/privātmuiža
-date_created: 18-07-2026 15:56
-date_modified: 23-07-2026 21:13
+piederiba_iestadem:
+date_created: 02-04-2026 18:39
+date_modified: 30-07-2026 20:08
 coordinates:
 map_color:
 map_icon:
-publish: true
-file_name: Grundzāles
+publish:
 ---
-nosaukums_lv
+

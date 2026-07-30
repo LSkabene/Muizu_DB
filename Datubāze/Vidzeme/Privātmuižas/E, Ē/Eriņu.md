@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Eriņu
 nosaukums_ger: Heringshof
 nosaukums_rus:

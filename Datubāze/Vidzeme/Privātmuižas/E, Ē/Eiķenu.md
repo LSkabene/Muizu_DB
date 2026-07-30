@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Eiķenu
 nosaukums_ger: Heydekenhof
 nosaukums_rus:

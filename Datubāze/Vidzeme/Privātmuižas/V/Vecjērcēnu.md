@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Vecjērcēnu
 nosaukums_ger: Neu-Wohlfahrt
 nosaukums_rus:

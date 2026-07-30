@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunaijažu
 nosaukums_ger: Neu-Aijasch
 nosaukums_rus:

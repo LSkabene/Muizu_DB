@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ipiķu
 nosaukums_ger: Ippik
 nosaukums_rus:

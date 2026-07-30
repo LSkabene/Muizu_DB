@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Endzeles
 nosaukums_ger: Henselshof
 nosaukums_rus:

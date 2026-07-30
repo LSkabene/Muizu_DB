@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Eikažu
 nosaukums_ger: Eikasch
 nosaukums_rus:

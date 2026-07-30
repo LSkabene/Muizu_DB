@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ermeliņu
 nosaukums_ger: Hermelingshof
 nosaukums_rus:

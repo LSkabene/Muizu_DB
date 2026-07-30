@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunbrenguļu
 nosaukums_ger: Neu-Wrangelshof
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Iļķenes
 nosaukums_ger: Hilchensfähr
 nosaukums_rus:

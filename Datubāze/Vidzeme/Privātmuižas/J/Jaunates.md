@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunates
 nosaukums_ger: Neu-Ottenhof
 nosaukums_rus:

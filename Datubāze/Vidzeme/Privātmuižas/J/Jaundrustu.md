@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaundrustu
 nosaukums_ger: Neu-Drostenhof
 nosaukums_rus:

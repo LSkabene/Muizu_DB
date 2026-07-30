@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ērmaņu
 nosaukums_ger: Hermannshof
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ērģemes
 nosaukums_ger: Ermes
 nosaukums_rus:

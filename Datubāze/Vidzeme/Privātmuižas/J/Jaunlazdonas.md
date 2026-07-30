@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunlazdonas
 nosaukums_ger: Neu-Lasdohn
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunbebru
 nosaukums_ger: Neu-Bewershof
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ērgļu
 nosaukums_ger: Erlaa
 nosaukums_rus:

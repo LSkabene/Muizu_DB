@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunvāles
 nosaukums_ger: Neu-Sackenhof
 nosaukums_rus:

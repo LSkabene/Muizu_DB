@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Grašu
 nosaukums_ger: Geistershof
 nosaukums_rus:

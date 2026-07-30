@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunbilskas
 nosaukums_ger: Neu-Bilskenshof
 nosaukums_rus:

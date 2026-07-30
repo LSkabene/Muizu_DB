@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gustenbergas
 nosaukums_ger: Gustavsberg
 nosaukums_rus:

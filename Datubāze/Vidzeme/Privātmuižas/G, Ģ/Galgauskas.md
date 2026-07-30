@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Galgauskas
 nosaukums_ger: Golgowsky
 nosaukums_rus:

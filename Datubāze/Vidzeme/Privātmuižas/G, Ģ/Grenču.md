@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Grenču
 nosaukums_ger: Grenzhof
 nosaukums_rus:

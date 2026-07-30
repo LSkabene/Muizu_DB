@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Flames
 nosaukums_ger: Flamenhof
 nosaukums_rus:

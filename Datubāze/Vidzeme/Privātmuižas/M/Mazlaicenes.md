@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Mazlaicenes
 nosaukums_ger: Klein-Laitzen
 nosaukums_rus:

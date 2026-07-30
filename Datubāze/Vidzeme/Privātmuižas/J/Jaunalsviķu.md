@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunalsviķu
 nosaukums_ger: Neu-Alswig
 nosaukums_rus:

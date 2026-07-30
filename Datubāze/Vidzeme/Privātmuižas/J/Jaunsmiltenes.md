@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunsmiltenes
 nosaukums_ger: Neu-Smilten
 nosaukums_rus:

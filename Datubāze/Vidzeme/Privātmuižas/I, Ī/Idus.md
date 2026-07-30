@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Idus
 nosaukums_ger: Idwen
 nosaukums_rus:

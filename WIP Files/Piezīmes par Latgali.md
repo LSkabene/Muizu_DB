@@ -1,7 +1,7 @@
 ---
 aprinkis_LV:
-date_created: 17-07-2026 18:29 +03:00
-date_modified: 17-07-2026 20:24 +03:00
+date_created: 17-07-2026 18:29
+date_modified: 29-07-2026 18:09
 publish: false
 ---
 Kur atrast muižu tipoloģiju?

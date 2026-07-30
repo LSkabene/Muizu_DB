@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaungulbenes
 nosaukums_ger: Neu-Schwanenburg
 nosaukums_rus:

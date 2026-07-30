@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunkārķu
 nosaukums_ger: Neu-Karkel
 nosaukums_rus:

@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Glinces
 nosaukums_ger: Katharinenhof
 nosaukums_rus:

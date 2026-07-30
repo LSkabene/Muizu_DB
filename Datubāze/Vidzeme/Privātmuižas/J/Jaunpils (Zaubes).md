@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Jaunpils
 nosaukums_ger: Jürgensburg
 nosaukums_rus:

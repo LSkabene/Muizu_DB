@@ -1,5 +1,5 @@
 ---
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Grotužu
 nosaukums_ger: Grothusenshof
 nosaukums_rus:
