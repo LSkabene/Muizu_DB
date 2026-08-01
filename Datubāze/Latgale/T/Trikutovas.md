@@ -1,6 +1,6 @@
 ---
 veids: Folvarks
-nosaukums_lv: Locovas
+nosaukums_lv: Trikutovas
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -20,9 +20,10 @@ krogi:
 dzirnavas:
 tags:
   - Latgale
+  - veids/folvarks
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 01-08-2026 19:46
+date_modified: 01-08-2026 19:57
 coordinates:
 map_color:
 map_icon:

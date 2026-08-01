@@ -1,15 +1,11 @@
 ---
 date_created: 01-08-2026 18:46
-date_modified: 01-08-2026 19:25
-publish:
+date_modified: 01-08-2026 19:46
+publish: true
 ---
-
-
-
-
 ### Objekta "kartiņa"
 
-Datubāze veidota izmantojot [Obsidian](https://obsidian.md/) programmatūru, [Quartz 5](https://quartz.jzhao.xyz/) statisko lapu ģenerātoru (static-site generator) un Katrs no ierakstiem ir atsevišķs _Markdown (.md)_ fails, kas sastāv no faila ??? (properties) un pamatteksta. 
+Datubāze veidota izmantojot [Obsidian](https://obsidian.md/) programmatūru, [Quartz 5](https://quartz.jzhao.xyz/) statisko lapu ģenerātoru (static-site generator). %%un is being hosted on Github and Github pages.%% Katrs no ierakstiem ir atsevišķs _Markdown (.md)_ fails, kas sastāv no faila ??? (properties) un pamatteksta. 
 
 `file_name:` .md faila nosaukums, parasti sakrīt ar objekta nosaukumu, taču var būt papildināts ar paskaidrojošu informāciju, piem., "Annas (Lielvārdes pag.)"
 `veids:` Objekta kategorija. Iespējamās vērtības: ... Kategorijas sākotnēji aizgūtas no *Kristīne Zaļuma. Vidzemes muižas un to bibliotēkas: burtnīca. Rīga: Latvijas Nacionālā bibliotēka, 2022* un papildinātas pēc vajadzības.
@@ -24,4 +20,6 @@ Datubāze veidota izmantojot [Obsidian](https://obsidian.md/) programmatūru, [Q
 `veids_vesturiski:` Šajā laukā var būt iekļauta norāde uz 1) muižas sevišķo juridisko statusu, piem. alods vai fideikomiss (pamatā no *K. Zaļumas "Burtnīcas"* Vidzemes muižu gadījumā); 2) muižas `veida` izmaiņām, piem., līdz 19. gs. sākumam [[Rembates]] muiža bija [[Lielvārdes]] muižas pusmuiža.
 `parent_manor:`Pusmuižu vai vēsturisko pusmuižu, krogu un dzirnavu "kartiņās" šeit ir saite uz muižu vai muižām, kam objekts kādreiz piederējis.
 `half_manors:`Atgriezeniska saite - muižai piederošās vai piederējušās pusmuižas.
-`krogi/dzirnavas:` 
+`krogi/dzirnavas:`Atgriezeniskā saite.
+`tags:` Birkas. Iespējams filtrēt failus, kam kopīga birka, piem. [Latgales muižas](https://lskabene.github.io/Quartz-v5-DB/tags/latgale). Birkas ļauj veidot tīklojumus starp dažādiem objektiem. 
+`coordinates:` Objekta atrašanās vieta pēc Google Maps koordinātām.

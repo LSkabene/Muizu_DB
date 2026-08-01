@@ -1,11 +1,11 @@
 ---
-veids: Folvarks
-nosaukums_lv: Locovas
+veids:
+nosaukums_lv: Ņukšu
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
-nosaukums_pol:
+nosaukums_pol: Niukszi
 nosaukums_swe:
 aliases:
 guberna: Vitebskas
@@ -22,7 +22,7 @@ tags:
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 01-08-2026 19:46
+date_modified: 01-08-2026 19:48
 coordinates:
 map_color:
 map_icon:
