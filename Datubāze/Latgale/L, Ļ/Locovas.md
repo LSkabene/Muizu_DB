@@ -1,6 +1,6 @@
 ---
-veids:
-nosaukums_lv: Uškacova
+veids: Folvarks
+nosaukums_lv: Locovas
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -22,10 +22,10 @@ tags:
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 01-08-2026 18:39
+date_modified: 01-08-2026 18:48
 coordinates:
 map_color:
 map_icon:
-publish: true
+publish:
 ---
 
