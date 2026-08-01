@@ -1,18 +1,20 @@
 ---
 veids:
-nosaukums_lv: Žurilavas
+nosaukums_lv: Zaļmuiža
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
-nosaukums_pol:
+nosaukums_pol: Zalmuyża
 nosaukums_swe:
 aliases:
-guberna: Vitebskas
+  - Togenen
+  - Kokovsčiznas
+guberna:
 aprinkis_imperija:
 draudzes_novads:
 aprinkis_LV: Ludzas apriņķis
-pagasts: Kārsavas pagasts
+pagasts: Nautrēnu pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
@@ -22,7 +24,7 @@ tags:
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 30-07-2026 21:38
+date_modified: 01-08-2026 18:20
 coordinates:
 map_color:
 map_icon:

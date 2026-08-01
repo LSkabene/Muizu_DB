@@ -26,10 +26,10 @@ tags:
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 30-07-2026 20:50
+date_modified: 01-08-2026 18:13
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 
