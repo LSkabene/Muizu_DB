@@ -23,7 +23,7 @@ tags:
   - veids/folvarks
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 23-07-2026 21:19
+date_modified: 01-08-2026 19:59
 coordinates:
 map_color:
 map_icon:

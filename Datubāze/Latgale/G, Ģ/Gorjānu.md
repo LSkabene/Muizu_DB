@@ -27,6 +27,6 @@ date_modified: 01-08-2026 18:29
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 
