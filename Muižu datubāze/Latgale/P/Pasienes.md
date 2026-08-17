@@ -23,7 +23,7 @@ tags:
   - īpašnieki/Benislavski
 piederiba_iestadem:
 date_created: 17-08-2026 19:20
-date_modified: 17-08-2026 20:27
+date_modified: 17-08-2026 20:31
 coordinates:
 map_color:
 map_icon:
@@ -31,21 +31,21 @@ publish: true
 ---
 
 > [!source-pub] Avots - LNA LVVA F5425 "Vitebskas Domēņu valde", 1. US, 8. GV
-> Ap 1856.-1861. gadu `= this.nosaukums_lv` muižas īpašnieks bija [[Ādams Benislavskis]]. Īpašumā ietilpa _saite uz muižām_ un _cik_ sādžas: _uzskaitījums_.
+> Ap 1856.-1861. gadu `= this.nosaukums_lv` muižas īpašnieks bija [[Ādams Benislavskis]]. Īpašumā ietilpa [[Pasienes]], [[Soboļinas|Sibilinas]] un [[Paulovas]] folvarki, Pasienes miests un _24_ sādžas: Адамово, Щикуцкая, Пирогово, Внучково, Горники, Защиринска, Тарчилово, Гордачево, Домие, Колесники, Новики, Лицвяки, Ра?увое, Мельники, Боровая, Полячонки, Чивчишу, Помплево, Шакуры, Ауни, Пердули, Дзеглиши, Шковна и Загорские.
 >
-> Pēc revīzijas datiem, īpašumam pieder _cik_ vīrieši un _cik_ sievietes; faktiski ir _cik_ vīrieši un _cik_ sievietes. 
+> Pēc revīzijas datiem, īpašumam pieder 710 vīrieši un 673 sievietes; faktiski ir 737 vīrieši un 731 sievietes. 
 > No tiem:
->- strādnieku (рабочих): _cik_ vīriešu, _cik_ sieviešu; 
->- Saimnieku (хозяев):  _cik_
->- klaušinieku (тяглых): _cik_, 
->- kājinieku vai pusklaušinieku (пеших или полутяглых):  —, 
->- dārznieku (огородников):  —; 
->- bezzemnieku (бобылей):  —; 
->- muižas ļaužu (дворовых людей): _cik_ vīriešu, _cik_ sieviešu;
+>- strādnieku (рабочих): 398 vīriešu, 422 sieviešu; 
+>- Saimnieku (хозяев):  116
+>- klaušinieku (тяглых): 0
+>- kājinieku vai pusklaušinieku (пеших или полутяглых): 0, 
+>- dārznieku (огородников):  0; 
+>- bezzemnieku (бобылей):  9; 
+>- muižas ļaužu (дворовых людей): 15 vīriešu, 9 sieviešu;
 >
->Mājas, kas maksā nomu (дворов, состоящих на оброке):  —.
+>Mājas, kas maksā nomu (дворов, состоящих на оброке):  0.
 >
-> Visa īpašuma platība mērāma _cik_ desetīnās un _cik_ (saženjax)
+> Visa īpašuma platība mērāma 8245 desetīnās un  (saženjax)
 >
 > Zemnieku zemes sadalījums
 > - piemājas un dārzu (усадебной и огородной) _cik_ , 
