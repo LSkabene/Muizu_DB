@@ -6,18 +6,18 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Datubāze")
+        - file.inFolder("Muižu datubāze")
         - "!nosaukums_lv.isEmpty()"
     groupBy:
       property: veids
       direction: ASC
     order:
       - file.name
-      - veids
       - nosaukums_lv
       - nosaukums_ger
       - nosaukums_rus
       - aliases
+      - veids
       - guberna
       - aprinkis_imperija
       - draudzes_novads
@@ -27,9 +27,11 @@ views:
       - half_manors
       - coordinates
     sort:
-      - property: half_manors
+      - property: aliases
         direction: ASC
-      - property: nosaukums_lv
+      - property: veids
+        direction: ASC
+      - property: half_manors
         direction: ASC
       - property: coordinates
         direction: DESC
@@ -40,7 +42,8 @@ views:
       - property: nosaukums_est
         direction: ASC
     columnSize:
-      note.veids: 96
+      file.name: 125
+      note.veids: 104
       note.aliases: 174
       note.aprinkis_imperija: 135
       note.draudzes_novads: 145

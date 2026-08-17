@@ -21,7 +21,7 @@ dzirnavas:
 tags: Latgale
 piederiba_iestadem:
 date_created: 18-07-2026 07:57
-date_modified: 23-07-2026 21:15
+date_modified: 17-08-2026 20:23
 coordinates:
 map_color:
 map_icon:
