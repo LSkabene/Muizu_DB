@@ -16,14 +16,18 @@ pagasts: Pasienes pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Soboļinas]]"
+  - "[[Paulovas]]"
 krogi:
 dzirnavas:
 tags:
   - Latgale
   - īpašnieki/Benislavski
+  - veids/privātmuiža
+  - veids/folvarks
 piederiba_iestadem:
 date_created: 17-08-2026 19:20
-date_modified: 17-08-2026 20:31
+date_modified: 17-08-2026 20:46
 coordinates:
 map_color:
 map_icon:
@@ -45,15 +49,16 @@ publish: true
 >
 >Mājas, kas maksā nomu (дворов, состоящих на оброке):  0.
 >
-> Visa īpašuma platība mērāma 8245 desetīnās un  (saženjax)
+> Visa īpašuma platība mērāma 8245 desetīnās un 0 asīs/saženos.
 >
 > Zemnieku zemes sadalījums
-> - piemājas un dārzu (усадебной и огородной) _cik_ , 
-> - aramzeme (пахатной) _cik_,
-> - siena pļaušanai (сенокосной) _cik_
-> Zemnieku zemes kopplatība (Мирской земли): __ desetīnas.
+> - piemājas un dārzu (усадебной и огородной) 116 , 
+> - aramzeme (пахатной) 1856,
+> - siena pļaušanai (сенокосной) 464
+> Zemnieku zemes kopplatība (Мирской земли): N/A desetīnas.
 > 
->Bez iepriekšminētā, zemnieki izmanto: 
+>Bez iepriekšminētā, zemnieki izmanto: %% jāpapildina %%
+
 
 
 

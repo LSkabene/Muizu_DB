@@ -1,6 +1,6 @@
 ---
 date_created: 17-08-2026 19:20
-date_modified: 17-08-2026 20:25
+date_modified: 17-08-2026 20:42
 ---
 
 > [!source-pub] Avots - LNA LVVA F5425 "Vitebskas Domēņu valde", 1. US, 8. GV
@@ -18,7 +18,7 @@ date_modified: 17-08-2026 20:25
 >
 >Mājas, kas maksā nomu (дворов, состоящих на оброке):  —.
 >
-> Visa īpašuma platība mērāma _cik_ desetīnās un _cik_ (saženjax)
+> Visa īpašuma platība mērāma _cik_ desetīnās un _cik_ asīs/saženos.
 >
 > Zemnieku zemes sadalījums
 > - piemājas un dārzu (усадебной и огородной) _cik_ , 
