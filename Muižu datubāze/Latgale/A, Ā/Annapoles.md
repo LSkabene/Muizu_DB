@@ -23,7 +23,7 @@ tags:
   - Latgale
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 30-07-2026 20:41
+date_modified: 18-08-2026 12:24
 coordinates:
 map_color:
 map_icon:

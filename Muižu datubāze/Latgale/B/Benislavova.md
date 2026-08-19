@@ -21,10 +21,13 @@ dzirnavas:
 tags: Latgale
 piederiba_iestadem:
 date_created: 17-07-2026 20:02
-date_modified: 23-07-2026 21:15
+date_modified: 19-08-2026 18:53
 coordinates:
 map_color:
 map_icon:
 publish: true
 ---
 
+```dataview
+list where !piederiba_iestadem
+```
