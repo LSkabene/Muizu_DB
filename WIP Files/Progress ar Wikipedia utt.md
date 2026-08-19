@@ -1,8 +1,8 @@
 ---
 tags: [excalidraw]
 
-date_created: 18-07-2026 20:21
-date_modified: 01-08-2026 19:59
+date_created: 2026-07-18
+date_modified: 2026-08-19
 excalidraw-plugin: parsed
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

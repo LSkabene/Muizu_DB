@@ -1,8 +1,7 @@
 ---
-tags:
-  - dzimta/Benislavski
-date_created: 17-08-2026 20:27
-date_modified: 18-08-2026 09:14
+tags: [dzimta/Benislavski]
+date_created: 2026-08-17
+date_modified: 2026-08-19
 publish: true
 ---
 ```dataview

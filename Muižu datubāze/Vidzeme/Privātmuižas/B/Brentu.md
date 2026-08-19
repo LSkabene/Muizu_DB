@@ -7,9 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
-  - Brentes
-  - Kockenberg
+aliases: [Brentes, Kockenberg]
 guberna: Vidzemes
 aprinkis_imperija: Valkas
 draudzes_novads: Ērģemes
@@ -20,13 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - veids/privātmuiža
-  - places
-  - Vidzeme
-piederiba_iestadem:
-date_created: 11-04-2026 10:29
-date_modified: 23-07-2026 21:15
+tags: [veids/privātmuiža, places, Vidzeme]
+date_created: 2026-04-11
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

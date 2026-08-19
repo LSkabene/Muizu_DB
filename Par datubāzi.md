@@ -1,6 +1,6 @@
 ---
-date_created: 01-08-2026 18:46
-date_modified: 01-08-2026 19:46
+date_created: 2026-08-01
+date_modified: 2026-08-19
 publish: true
 ---
 ### Objekta "kartiņa"

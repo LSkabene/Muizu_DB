@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: Eikina, Heidekenhof
+aliases: [Eikina, Heidekenhof]
 guberna: Vidzemes
 aprinkis_imperija: Valmieras
 draudzes_novads:
@@ -18,11 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - places
-  - veids/privātmuiža
-date_created: 18-07-2026 15:56
-date_modified: 19-08-2026 18:49
+tags: [places, veids/privātmuiža]
+date_created: 2026-07-18
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -7,9 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
-  - Saļņevas
-  - Cecinas
+aliases: [Saļņevas, Cecinas]
 guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
@@ -21,12 +19,9 @@ half_manors:
   - "[[Malnavas]]"
 krogi:
 dzirnavas:
-tags:
-  - veids/privātmuiža
-  - Latgale
-piederiba_iestadem:
-date_created: 02-04-2026 18:39
-date_modified: 01-08-2026 18:13
+tags: [veids/privātmuiža, Latgale]
+date_created: 2026-07-30
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

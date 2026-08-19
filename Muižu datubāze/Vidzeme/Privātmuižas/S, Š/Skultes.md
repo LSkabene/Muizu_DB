@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
+aliases: []
 guberna:
 aprinkis_imperija:
 draudzes_novads:
@@ -18,10 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: Vidzeme
-piederiba_iestadem:
-date_created: 11-06-2026 19:38
-date_modified: 23-07-2026 21:15
+tags: [Vidzeme]
+date_created: 2026-06-11
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

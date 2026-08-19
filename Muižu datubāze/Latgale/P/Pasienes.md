@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol: Posiń
 nosaukums_swe:
-aliases:
+aliases: []
 guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
@@ -20,14 +20,9 @@ half_manors:
   - "[[Paulovas]]"
 krogi:
 dzirnavas:
-tags:
-  - Latgale
-  - īpašnieki/Benislavski
-  - veids/privātmuiža
-  - veids/folvarks
-piederiba_iestadem:
-date_created: 17-08-2026 19:20
-date_modified: 17-08-2026 20:46
+tags: [Latgale, īpašnieki/Benislavski, veids/privātmuiža, veids/folvarks]
+date_created: 2026-08-01
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

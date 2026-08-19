@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
+aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
@@ -19,13 +19,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - veids/privātmuiža
-  - places
-  - Vidzeme
-piederiba_iestadem:
-date_created: 11-04-2026 09:33
-date_modified: 23-07-2026 21:15
+tags: [veids/privātmuiža, places, Vidzeme]
+date_created: 2026-04-11
+date_modified: 2026-08-19
 coordinates: 56.73900386394024, 24.720827177880583
 map_color: maroon
 map_icon: star

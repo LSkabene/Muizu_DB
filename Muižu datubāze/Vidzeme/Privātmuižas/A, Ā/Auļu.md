@@ -7,8 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
-  - Aula
+aliases: [Aula]
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
 draudzes_novads:
@@ -19,13 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - places
-  - veids/privātmuiža
-  - Vidzeme
-piederiba_iestadem:
-date_created: 06-04-2026 19:47
-date_modified: 23-07-2026 21:15
+tags: [places, veids/privātmuiža, Vidzeme]
+date_created: 2026-04-06
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

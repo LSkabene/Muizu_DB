@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
+aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
 draudzes_novads:
@@ -18,9 +18,9 @@ parent_manor: "[[Veclazdonas]]"
 half_manors:
 krogi:
 dzirnavas:
-tags:
-date_created: 23-07-2026 21:12
-date_modified: 23-07-2026 21:15
+tags: []
+date_created: 2026-07-23
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

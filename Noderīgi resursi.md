@@ -1,6 +1,6 @@
 ---
-date_created: 17-07-2026 19:02
-date_modified: 28-07-2026 19:34
+date_created: 2026-07-17
+date_modified: 2026-08-19
 publish:
 ---
 ## LVVA fondi

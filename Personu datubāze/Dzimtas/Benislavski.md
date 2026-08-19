@@ -1,7 +1,7 @@
 ---
-aliases: Benislavsku
-date_created: 18-08-2026 09:13
-date_modified: 19-08-2026 18:51
+aliases: [Benislavsku]
+date_created: 2026-08-18
+date_modified: 2026-08-19
 publish: true
 ---
 ```dataview 

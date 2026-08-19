@@ -7,10 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
-  - Wittkops
-  - Witkopshof
-  - Tepelshof
+aliases: [Wittkops, Witkopshof, Tepelshof]
 guberna: Vidzemes
 aprinkis_imperija: Valkas
 draudzes_novads: Trikātas
@@ -21,14 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - veids/organizāciju
-  - veids/organizāciju/vidzemes_bruņniecība
-  - places
-  - Vidzeme
-piederiba_iestadem:
-date_created: 02-04-2026 18:39
-date_modified: 23-07-2026 21:15
+tags: [veids/organizāciju, veids/organizāciju/vidzemes_bruņniecība, places, Vidzeme]
+date_created: 2026-04-02
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

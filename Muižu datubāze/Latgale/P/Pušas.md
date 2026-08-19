@@ -7,7 +7,7 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases:
+aliases: []
 guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
@@ -18,10 +18,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: Latgale
-piederiba_iestadem:
-date_created: 17-07-2026 18:43
-date_modified: 23-07-2026 21:15
+tags: [Latgale]
+date_created: 2026-07-17
+date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
