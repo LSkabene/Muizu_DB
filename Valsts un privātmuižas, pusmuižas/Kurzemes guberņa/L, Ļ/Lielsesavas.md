@@ -15,15 +15,17 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors: "[[Vidusmuiža]], [[Mazsesavas]]"
+half_manors:
+  - "[[Vidusmuiža]]"
+  - "[[Mazsesavas]]"
 krogi:
 dzirnavas:
-tags: []
+tags: [Kurzeme, veids/kroņa_muiža]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 

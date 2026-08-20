@@ -7,7 +7,9 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: [Liezeres, Loesern]
+aliases:
+  - Liezeres
+  - Loesern
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
 draudzes_novads: Liezēres
@@ -18,7 +20,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: [veids/pastorāts, veids/pastorāts/luterāņu, places, Vidzeme]
+tags:
+  - veids/pastorāts
+  - veids/pastorāts/luterāņu
+  - places
+  - Vidzeme
 date_created: 2026-04-02
 date_modified: 2026-08-19
 coordinates:

@@ -18,7 +18,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: [veids/pastorāts, veids/pastorāts/luterāņu, teritorija/rīgas-patrimoniālais, places, Vidzeme]
+tags:
+  - veids/pastorāts
+  - veids/pastorāts/luterāņu
+  - teritorija/rīgas-patrimoniālais
+  - places
+  - Vidzeme
 date_created: 2026-04-02
 date_modified: 2026-08-19
 coordinates:

@@ -18,12 +18,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
+tags: [veids/mežmuiža]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 

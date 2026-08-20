@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-15
-date_modified: 2026-08-19
+date_modified: 2026-08-20
 publish: true
 ---
 
@@ -8,5 +8,6 @@ publish: true
 [[Izmantotie avoti un literatūra]]
 [[Noderīgi resursi]]
 
-[Latgales muižas](https://lskabene.github.io/Quartz-v5-DB/tags/latgale)
-[Vidzemes muižas](https://lskabene.github.io/Quartz-v5-DB/tags/vidzeme)
+[Vitebskas guberņas (Latgales) muižas](https://lskabene.github.io/Quartz-v5-DB/tags/latgale)
+[Vidzemes guberņas muižas](https://lskabene.github.io/Quartz-v5-DB/tags/vidzeme)
+[Kurzemes guberņas muižas](https://lskabene.github.io/Quartz-v5-DB/tags/kurzeme)

@@ -15,15 +15,17 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors: "[[Īslīces]], [[Katrīnas (Garozas pag.)]]"
+half_manors:
+  - "[[Īslīces]]"
+  - "[[Katrīnas (Garozas pag.)]]"
 krogi:
 dzirnavas:
-tags: []
+tags: [Kurzeme, veids/kroņa_muiža]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 

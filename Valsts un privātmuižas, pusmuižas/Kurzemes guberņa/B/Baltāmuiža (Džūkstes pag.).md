@@ -14,16 +14,16 @@ draudzes_novads:
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
-parent_manor: "[[Pētermuiža (Džūkstes pag.]]"
+parent_manor: "[[Pētermuiža (Džūkstes pag.)]]"
 half_manors:
 krogi:
 dzirnavas:
-tags: []
+tags: [veids/kroņa_pusmuiža, Kurzeme]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 

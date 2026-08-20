@@ -18,12 +18,12 @@ parent_manor: "[[Kroņvircavas]]"
 half_manors:
 krogi:
 dzirnavas:
-tags: []
+tags: [veids/kroņa_muiža, Kurzeme, veids_vēsturiski/kroņa_pusmuiža]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:
-publish:
+publish: true
 ---
 
