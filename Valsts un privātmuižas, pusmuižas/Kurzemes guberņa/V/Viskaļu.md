@@ -18,9 +18,7 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - Kurzeme
-  - veids/kroņa_muiža
+tags: [Kurzeme, veids/kroņa_muiža]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:

@@ -18,7 +18,7 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: [veids/kroņa_muiža, Kurzeme]
+tags: [veids/kroņa_muiža, Kurzeme, īpašnieki/Bordeliusi]
 date_created: 2026-08-20
 date_modified: 2026-08-20
 coordinates:
@@ -26,4 +26,6 @@ map_color:
 map_icon:
 publish: true
 ---
-
+> [!source-pub] LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV
+> 
+> 1911\. gadā nomnieks muižnieks [[Aksels Hermaņa d. Bordeliuss]].
