@@ -20,12 +20,14 @@ half_manors:
   - "[[Mazsesavas]]"
 krogi:
 dzirnavas:
-tags: [Kurzeme, veids/kroņa_muiža]
+tags: [Kurzeme, veids/kroņa_muiža, īpašnieki/Heikingi]
 date_created: 2026-08-20
-date_modified: 2026-08-20
+date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:
 publish: true
 ---
+1913\. gadā nomnieks barons [[Eduards Juliusa d. Heikings]].[^1]
 
+[^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

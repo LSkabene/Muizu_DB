@@ -20,11 +20,12 @@ krogi:
 dzirnavas:
 tags: [Kurzeme, veids/kroņa_muiža]
 date_created: 2026-08-20
-date_modified: 2026-08-21
+date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:
 publish: true
 ---
-> [!source-pub] LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV
-> 1906\. gadā nomnieks zemnieks [[Vilhelms Heinriha d. Zuševics]].
+1906\. gadā nomnieks zemnieks [[Vilhelms Heinriha d. Zuševics]].[^1]
+
+[^1]:  LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

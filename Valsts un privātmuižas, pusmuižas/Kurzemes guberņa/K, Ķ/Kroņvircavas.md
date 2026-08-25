@@ -18,7 +18,7 @@ parent_manor:
 half_manors:
   - "[[Elejas]]"
   - "[[Pētera (Vircavas)]]"
-  - "[[Jaunmuiža (Vircavas]]"
+  - "[[Jaunmuiža (Vircavas)]]"
   - "[[Ķiles]]"
   - "[[Vecsvirlaukas]]"
   - "[[Siera]]"
@@ -30,7 +30,7 @@ krogi:
 dzirnavas:
 tags: [Kurzeme, veids/kroņa_muiža]
 date_created: 2026-08-20
-date_modified: 2026-08-20
+date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:
