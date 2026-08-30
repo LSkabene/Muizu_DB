@@ -18,15 +18,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: [Latgale]
+tags:
+  - Latgale
 date_created: 2026-07-17
-date_modified: 2026-08-19
+date_modified: 2026-08-30
 coordinates:
 map_color:
 map_icon:
 publish: true
 ---
-
-```dataview
-list where !piederiba_iestadem
-```
