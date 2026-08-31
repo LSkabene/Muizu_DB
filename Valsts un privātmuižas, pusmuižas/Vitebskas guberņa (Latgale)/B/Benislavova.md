@@ -18,8 +18,7 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
-  - Latgale
+tags: [Latgale]
 date_created: 2026-07-17
 date_modified: 2026-08-30
 coordinates:
